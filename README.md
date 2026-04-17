@@ -18,7 +18,7 @@
 ## Cách chạy project
 
 ### 1. Clone project
-git clone https://github.com/youraccount/projectname
+git clone https://github.com/LeThanhThien2k4/Add2Num
 
 ### 2. Mở bằng IntelliJ
 
