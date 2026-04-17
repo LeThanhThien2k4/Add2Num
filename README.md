@@ -118,7 +118,7 @@ http://localhost:8080
 ---
 ## Demo giao diện
 
-![Demo UI](assets/demo.png)
+![Demo UI](assets/pictureDemo.png)
 
 ---
 
