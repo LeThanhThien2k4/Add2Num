@@ -116,6 +116,11 @@ http://localhost:8080
 4. Xem kết quả hiển thị bên dưới
 
 ---
+## Demo giao diện
+
+![Demo UI](assets/demo.png)
+
+---
 
 ## 7. Ví dụ test
 
