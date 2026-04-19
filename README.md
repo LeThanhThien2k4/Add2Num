@@ -82,10 +82,10 @@ Mark Directory as → Sources Root
 
 ---
 ## ✅ chạy UnitTest
-chạy toàn bộ testcases:
-click chuột phải MyBigNumberUnitTest => Run
-chạy từn testcase:
-click Run vào từng hàm test trong MyBigNumberUnitTest
+* chạy toàn bộ testcases:
+* click chuột phải MyBigNumberUnitTest => Run
+* chạy từn testcase:
+* click Run vào từng hàm test trong MyBigNumberUnitTest
 
 ## ⚠️ Lỗi thường gặp
 
