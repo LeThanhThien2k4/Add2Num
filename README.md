@@ -69,16 +69,16 @@ Mark Directory as → Sources Root
 
 ## ✅ Kết quả
 
-Chương trình sẽ chạy ngay, ví dụ:
-thg 4 19, 2026 5:04:36 CH MyBigNumber sum
-INFO: Bước 1: 4 + 8 = 12 → ghi 2, nhớ 1
-thg 4 19, 2026 5:04:37 CH MyBigNumber sum
-INFO: Bước 2: 3 + 7 + 1 = 11 → ghi 1, nhớ 1
-thg 4 19, 2026 5:04:37 CH MyBigNumber sum
-INFO: Bước 3: 2 + 6 + 1 = 9 → ghi 9, nhớ 0
-thg 4 19, 2026 5:04:37 CH MyBigNumber sum
-INFO: Bước 4: 1 + 5 = 6 → ghi 6, nhớ 0
-Kết quả: 6912
+* Chương trình sẽ chạy ngay, ví dụ:
+* thg 4 19, 2026 5:04:36 CH MyBigNumber sum
+* INFO: Bước 1: 4 + 8 = 12 → ghi 2, nhớ 1
+* thg 4 19, 2026 5:04:37 CH MyBigNumber sum
+* INFO: Bước 2: 3 + 7 + 1 = 11 → ghi 1, nhớ 1
+* thg 4 19, 2026 5:04:37 CH MyBigNumber sum
+* INFO: Bước 3: 2 + 6 + 1 = 9 → ghi 9, nhớ 0
+* thg 4 19, 2026 5:04:37 CH MyBigNumber sum
+* INFO: Bước 4: 1 + 5 = 6 → ghi 6, nhớ 0
+* Kết quả: 6912
 
 ---
 ## ✅ chạy UnitTest
