@@ -1,26 +1,25 @@
 package com.codewiththien.add2num.service;
 
-import ch.qos.logback.core.model.Model;
 import org.springframework.stereotype.Service;
 
 import java.util.logging.Logger;
 
 @Service
-public class BigNumberService {
-     private static final Logger log = Logger.getLogger(BigNumberService.class.getName());
+public class MyBigNumberService {
+     private static final Logger log = Logger.getLogger(MyBigNumberService.class.getName());
 
     public String sum(String stn1, String stn2) {
         StringBuilder result = new StringBuilder();
-
+        
         int i = stn1.length() - 1;
         int j = stn2.length() - 1;
 
-        int carry = 0;
+        int carry = 0; // biến nhớ đầu tiên ví dụ 7 + 8 = 15 nhớ 1
         int step = 1;
 
         while (i >= 0 || j >= 0) {
-
-            int digit1 = (i >= 0) ? stn1.charAt(i) - '0' : 0;
+            
+            int digit1 = (i >= 0) ? stn1.charAt(i) - '0' : 0; // lấy vị trí cuối cùng của chuỗi chuyển từ char về int, nếu đã hết thì lấy 0
             int digit2 = (j >= 0) ? stn2.charAt(j) - '0' : 0;
 
             int carryIn = carry; // nhớ từ bước trước
